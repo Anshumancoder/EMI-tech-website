@@ -7,3 +7,4 @@ function filterLinks() {
       link.style.display = linkText.includes(input) ? "" : "none";
     });
   }
+
